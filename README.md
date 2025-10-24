@@ -10,7 +10,6 @@ AIの提案に従って、とりあえずGitHubにアップロードしてみま
 The AI said it was genius, so I just went ahead and uploaded it to GitHub.
 Search trolling? Not my fault 😅
 
-AI review
 ![説明文](mm.jpg)
 
 | ![画像1](m0.jpg) | ![画像2](m1.jpg) |
