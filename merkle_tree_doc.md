@@ -618,11 +618,11 @@ end # code
 ```
 このようにlambdaブロックそのものを再帰する
 このYコンビネータの活用によって
-全てのシーンの生成を担えるのでMerkle_scene.newの呼び出しの記述はゲームのソースコード中ここだけである
+全てのシーンの生成を担えるのでo.Scene_create の呼び出しの記述はゲームのソースコード中ここだけである
 
 I don't know what you're saying anymore ...
 
-例えば Merkle_scene.new の中で生成されるゲームのメッセージループの各シーンの中において
+例えば o.Scene_create の中で生成されるゲームのメッセージループの各シーンの中において
 ```ruby
 loop do |o|
   Window.sync
@@ -650,7 +650,7 @@ when -> rb do
     o.Task :"__#{rb}_task" do |o|
       o.Code do
         o.Main :"#{rb}" do |o|
-          Merkle_scene.new o , rb
+          o.Scene_create rb
           o.Code do
             f[ [o , rb] ]
           end # code
