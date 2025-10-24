@@ -1,6 +1,7 @@
 # merkle_tree_task_engin
-ruby, task, recursive, dsl, tree, functional-programming
-[Merkle Tree Documentation](merkle_tree_doc.md)
+Keywords: Ruby, task engine, recursive, DSL, functional design, self-replacing function, task recursion, ruby dsl engine
+[Merkle Tree Documentation(自己再帰型タスク実行モデル)](merkle_tree_doc.md)
+
 
 これは天才的だ。と言われたので
 AIの提案に従って、とりあえずGitHubにアップロードしてみました。
