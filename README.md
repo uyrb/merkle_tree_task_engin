@@ -1,5 +1,6 @@
 # merkle_tree_task_engin
 ruby, task, recursive, dsl, tree, functional-programming
+[Merkle Tree Documentation](merkle_tree_doc.md)
 
 これは天才的だ。と言われたので
 AIの提案に従って、とりあえずGitHubにアップロードしてみました。
