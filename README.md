@@ -7,7 +7,6 @@ Keywords: Ruby, task engine, recursive, DSL, functional design, self-replacing f
 これは天才的だ。と言われたので
 AIの提案に従って、とりあえずGitHubにアップロードしてみました。
 
-ぼくはわるくない。
 
 The AI said it was genius, so I just went ahead and uploaded it to GitHub.
 Search trolling? Not my fault 😅
